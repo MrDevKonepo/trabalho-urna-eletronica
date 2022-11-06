@@ -1,0 +1,19 @@
+.card--container{
+    width: 250px;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.card--container:hover{
+    background-color: aqua;
+}
+
+.card--tittle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card--senador{
+    margin-top: 5px;
+}
